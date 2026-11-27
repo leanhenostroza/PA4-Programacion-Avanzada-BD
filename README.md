@@ -4,7 +4,7 @@ CENTRO DE ESTUDIOS: ISIL
  - Curso: Programación Avanzada de Base de Datos
  - Codigo del curso:  30627
 
-2. Integrantes
+2. Integrante:
  - Jhoel Leandro Henostroza Minaya 
 
 3.  Descripción
